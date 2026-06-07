@@ -60,4 +60,4 @@ Python — TensorFlow, Keras, NumPy, scikit-learn, matplotlib
 ## Data Source
 PhysioNet MIT-BIH Arrhythmia Database — ECG recordings from 47
 individuals, sampled at 360 Hz, annotated by professional cardiologists.
-Training set: 87,554 beats · Test set: 21,892 beats
+[Dataset Link](https://www.physionet.org/content/mitdb/1.0.0/)
